@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SBMS-02-AdminServer
+server:
+  port: 2222
